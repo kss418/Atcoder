@@ -1,30 +1,16 @@
-#include <iostream>
-#include <algorithm>
-#include <vector>
-using namespace std;
-
-int fun(int n) {
-	if (n == 0) {
-		return 1;
-	}
-	else {
-		return fun(n - 1) * n;
-	}
-}
+#include <stdio.h>
 
 
 
 int main() {
-	cin.tie(0);
-	cout.tie(0);
-	ios::sync_with_stdio(false);
+	float a, b;
+	scanf("%f %f", &a, &b);
 
-	int n;
-	cin >> n;
-	cout << fun(n);
+	float c = b / a;
+	printf("%.3f", c);
 
-
-
-
+	
 	return 0;
 }
+
+
