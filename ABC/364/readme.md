@@ -1,7 +1,7 @@
 # https://atcoder.jp/contests/abc364/tasks
 
-A / Rating : $\color{#8C8C8C}29$ / 구현, 문자열
+A / Rating : $\color{#8C8C8C}29$ / Implementation
 
-B / Rating : $\color{#8C8C8C}79$ / 구현
+B / Rating : $\color{#8C8C8C}79$ / Implementation
 
-C / Rating : $\color{#8C8C8C}189$ / 정렬, 그리디
+C / Rating : $\color{#8C8C8C}189$ / Greedy, Sorting
