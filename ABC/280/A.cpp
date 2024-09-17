@@ -1,15 +1,9 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
-#include <cstring>
-#include <set>
-#include <queue>
-#include <deque>
 using namespace std;
 typedef long long ll;
-ll n, m, k, t; string s;
 
-const int MAX = 1010;
 
 
 int main() {
@@ -17,19 +11,23 @@ int main() {
 	cout.tie(0);
 	ios::sync_with_stdio(false);
 
-	cin >> s;
+	int x, y;
+	string arr[11];
+	cin >> y >> x;
 	int cnt = 0;
-	for (int i = 0; i < s.size(); i++) {
-		if (s[i] == 'v') {
-			cnt++;
-		}
-		else {
-			cnt += 2;
+	for (int i = 1; i <= y; i++) {
+		cin >> arr[i];
+		for (int j = 0; j < x; j++) {
+			if (arr[i][j] == '#') {
+				cnt++;
+			}
 		}
 	}
-
+	
 	cout << cnt;
-
+	
+	
 
 	return 0;
 }
+
