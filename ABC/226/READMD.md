@@ -1,4 +1,4 @@
-# https://atcoder.jp/contests/abc364/tasks
+# https://atcoder.jp/contests/abc226/tasks
 
 A / Rating : $\color{#8C8C8C}14$ / Implementation
 
