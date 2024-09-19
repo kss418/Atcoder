@@ -1,6 +1,6 @@
 # https://atcoder.jp/contests/abc278/tasks
 
-A / Rating : $\color{#8C8C8C}7$ / Implementation, String
+A / Rating : $\color{#8C8C8C}7$ / Implementation, Strings
 
 B / Rating : $\color{#8C8C8C}39$ / Implementation
 
