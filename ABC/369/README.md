@@ -7,3 +7,7 @@ B / Rating : $\color{#8C8C8C}62$ / Greedy
 C / Rating : $\color{#8C8C8C}323$ / Combinatorics
 
 D / Rating : $\color{#980000}621$ / DP
+
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/369.png)
+
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/369.png)
