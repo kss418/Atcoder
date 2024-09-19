@@ -10,4 +10,6 @@ D / Rating : $\color{#24FCFF}1202$ / Tree_Map, BFS
 
 E / Rating : $\color{#24FCFF}1213$ / DFS, Greedy
 
+F / Rating : $\color{#24FCFF}1606$ / Binary_Search, Combinatorics, Inclusion-Exclusion_Principle
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/361.png)
