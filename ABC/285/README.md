@@ -2,7 +2,7 @@
 
 A / Rating : $\color{#8C8C8C}11$ / Implementation
 
-B / Rating : $\color{#8C8C8C}108$ / Implementation, String
+B / Rating : $\color{#8C8C8C}108$ / Implementation, Strings
 
 C / Rating : $\color{#8C8C8C}157$ / Implementation
 
