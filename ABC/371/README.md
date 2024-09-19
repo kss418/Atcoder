@@ -9,3 +9,5 @@ D / Rating : $\color{#980000}408$ / Coordinate_Compression, Segment_Tree
 E / Rating : $\color{#22741C}981$ / Ad_Hoc
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/371/Standings.png)
+
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/371/Performance.png)
