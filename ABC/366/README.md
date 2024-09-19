@@ -2,7 +2,7 @@
 
 A / Rating : $\color{#8C8C8C}20$ / Math
 
-B / Rating : $\color{#8C8C8C}180$ / Implementation, String
+B / Rating : $\color{#8C8C8C}180$ / Implementation, Strings
 
 C / Rating : $\color{#8C8C8C}180$ / Implementation, Data_Structures
 
