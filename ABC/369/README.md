@@ -1,6 +1,6 @@
 # https://atcoder.jp/contests/abc369/tasks
 
-A / Rating : $\color{#8C8C8C}28$ / Implementation, Bruteforcing
+A / Rating : $\color{#8C8C8C}28$ / Implementation, Bruteforce
 
 B / Rating : $\color{#8C8C8C}62$ / Greedy
 
