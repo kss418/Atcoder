@@ -8,6 +8,6 @@ C / Rating : $\color{#8C8C8C}36$ / Greedy, Sorting
 
 D / Rating : $\color{#8C8C8C}159$ / Binary_Search
 
-E / Rating : $\color{#8C8C8C}1249$ / Combinatorics, Number_Theory
+E / Rating : $\color{#24FCFF}1249$ / Combinatorics, Number_Theory
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/360.png)
