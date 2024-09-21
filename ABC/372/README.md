@@ -10,6 +10,6 @@ D / Rating : $\color{#8C8C8C}-$ / Stack
 
 E / Rating : $\color{#8C8C8C}-$ / Disjoint_Set, Smaller_To_Larger, Tree_Set
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/372.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/372_.png)
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/372.png)
