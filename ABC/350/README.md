@@ -8,4 +8,4 @@ C / Rating : $\color{#8C8C8C}394$ / Implementation
 
 D / Rating : $\color{#980000}773$ / DFS, Graphs
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/361.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/350.png)
