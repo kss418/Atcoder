@@ -8,6 +8,8 @@ C / Rating : $\color{#8C8C8C}323$ / Combinatorics
 
 D / Rating : $\color{#980000}621$ / DP
 
+E / Rating : $\color{#24FCFF}1301$ / Bruteforce, Bellman_Ford, bit_Mask
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/369.png)
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/369.png)
