@@ -6,6 +6,6 @@ B / Rating : $\color{#8C8C8C}26$ / Implementation, Strings
 
 C / Rating : $\color{#8C8C8C}371$ / Divide_And_Conquer
 
-E / Rating : $\color{#24FCFF}1295$ / SCC, Topolgical_Sorting
+E / Rating : $\color{#24FCFF}1295$ / SCC, Topological_Sorting
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/357.png)
