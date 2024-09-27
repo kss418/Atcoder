@@ -7,3 +7,5 @@ B / Rating : $\color{#8C8C8C}66$ / Math
 C / Rating : $\color{#980000}521$ / Ad_Hoc
 
 D / Rating : $\color{#980000}634$ / Dijkstra
+
+E / Rating : $\color{#980000}1225$ / Tree_Map, DP
