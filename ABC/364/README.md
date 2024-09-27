@@ -8,7 +8,7 @@ C / Rating : $\color{#8C8C8C}189$ / Greedy, Sorting
 
 D / Rating : $\color{#22741C}1136$ / Binary_Search, Sorting
 
-E / Rating : $\color{#22741C}1496$ / DP, Knapsack
+E / Rating : $\color{#24FCFF}1496$ / DP, Knapsack
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/364.png)
 
