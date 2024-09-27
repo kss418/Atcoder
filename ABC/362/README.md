@@ -8,4 +8,4 @@ C / Rating : $\color{#980000}521$ / Ad_Hoc
 
 D / Rating : $\color{#980000}634$ / Dijkstra
 
-E / Rating : $\color{#980000}1225$ / Tree_Map, DP
+E / Rating : $\color{#24FCFF}1225$ / Tree_Map, DP
