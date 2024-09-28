@@ -7,3 +7,5 @@ B / Rating : $\color{#8C8C8C}32$ / Greedy, Sorting
 C / Rating : $\color{#980000}602$ / Bruteforce, Strings
 
 D / Rating : $\color{#22741C}975$ / Implementation
+
+E / Rating : $\color{#24FCFF}1307$ / Simulation, BFS
