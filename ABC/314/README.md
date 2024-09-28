@@ -2,5 +2,5 @@
 
 A / Rating : $\color{#8C8C8C}30$ / Implementation
 
-A / Rating : $\color{#8C8C8C}135$ / Implementation, Sorting
+B / Rating : $\color{#8C8C8C}135$ / Implementation, Sorting
 
