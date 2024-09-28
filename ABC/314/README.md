@@ -4,5 +4,7 @@ A / Rating : $\color{#8C8C8C}30$ / Implementation
 
 B / Rating : $\color{#8C8C8C}135$ / Implementation, Sorting
 
-B / Rating : $\color{#8C8C8C}342$ / Implementation, Strings
+C / Rating : $\color{#8C8C8C}342$ / Implementation, Strings
+
+D / Rating : $\color{#8C8C8C}585$ / Implementation, Strings
 
