@@ -8,6 +8,8 @@ C / Rating : $\color{#8C8C8C}180$ / Implementation, Data_Structures
 
 D / Rating : $\color{#980000}586$ / Prefix_Sum
 
+E / Rating : $\color{#24FCFF}1515$ / Ad_Hoc, Binary_Search
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/366.png)
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/366.png)
