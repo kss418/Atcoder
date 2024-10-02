@@ -10,4 +10,6 @@ D / Rating : $\color{#22741C}844$ / Prefix_Sum
 
 E / Rating : $\color{#24FCFF}1217$ / Strings, Trie
 
+G / Rating : $\color{#3162C7}1765$ / Seg_Tree, DP
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/353.png)
