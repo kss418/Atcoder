@@ -6,6 +6,8 @@ B / Rating : $\color{#8C8C8C}27$ / Implementation
 
 C / Rating : $\color{#22741C}828$ / Math
 
+D / Rating : $\color{#24FCFF}1381$ / DP, Strings
+
 E / Rating : $\color{#24FCFF}1275$ / Stack
 
 F / Rating : $\color{#3162C7}1792$ / Greedy, Tree_Set
