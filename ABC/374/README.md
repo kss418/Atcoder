@@ -8,6 +8,8 @@ C / Rating : $\color{#8C8C8C}-$ / Bruteforce
 
 D / Rating : $\color{#8C8C8C}-$ / Bruteforce, Greedy
 
+E / Rating : $\color{#8C8C8C}-$ / Binary_Search, Greedy, Bruteforce
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/374.png)
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/374.png)
