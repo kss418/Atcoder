@@ -8,5 +8,7 @@ C / Rating : $\color{#980000}637$ / Implementation, Strings, Greedy
 
 D / Rating : $\color{#22741C}895$ / Strings, Ad_Hoc
 
+D / Rating : $\color{#22741C}1153$ / Prefix_Sum, Combinatorics, Strings
+
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/324.png)
