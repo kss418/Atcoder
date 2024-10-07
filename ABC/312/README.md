@@ -2,7 +2,7 @@
 
 A / Rating : $\color{#8C8C8C}12$ / Implementation, Strings
 
-B / Rating : $\color{#8C8C8C}$216 / Implementation, Bruteforce
+B / Rating : $\color{#8C8C8C}216$ / Implementation, Bruteforce
 
 C / Rating : $\color{#980000}727$ / Binary_Search
 
