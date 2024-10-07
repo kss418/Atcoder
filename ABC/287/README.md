@@ -5,3 +5,5 @@ A / Rating : $\color{#8C8C8C}11$ / Implementation, Strings
 B / Rating : $\color{#8C8C8C}45$ / Implementation
 
 C / Rating : $\color{#980000}466$ / DFS
+
+D / Rating : $\color{#980000}796$ / Strings, Ad_Hoc
