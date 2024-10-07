@@ -2,6 +2,8 @@
 
 A / Rating : $\color{#8C8C8C}7$ / Implementation, String
 
-A / Rating : $\color{#8C8C8C}72$ / Implementation
+B / Rating : $\color{#8C8C8C}72$ / Implementation
 
-A / Rating : $\color{#8C8C8C}104$ / Implementation, String
+C / Rating : $\color{#8C8C8C}104$ / Implementation, String
+
+D / Rating : $\color{#22741C}1154$ / DFS, Combinatorics, Graphs
