@@ -2,9 +2,9 @@
 
 A / Rating : $\color{#8C8C8C}17$ / Implementation, Deque
 
-B / Rating : $\color{#8C8C8C}123$ / 
+B / Rating : $\color{#8C8C8C}123$ / Implementation
 
-C / Rating : $\color{#8C8C8C}327$ / 
+C / Rating : $\color{#8C8C8C}327$ / Tree_Set, Tree_Map
 
 D / Rating : $\color{#980000}559$ / Implementation
 
