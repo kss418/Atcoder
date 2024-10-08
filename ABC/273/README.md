@@ -6,7 +6,7 @@ B / Rating : $\color{#8C8C8C}178$ / Implementation, Math
 
 C / Rating : $\color{#8C8C8C}370$ / Implementation, Sorting
 
-D / Rating : $\color{#22741C}1119$ / Hash_map, Implemetation
+D / Rating : $\color{#22741C}1119$ / Hash_Map, Implemetation
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/273.png)
 
