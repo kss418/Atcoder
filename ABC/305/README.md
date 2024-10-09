@@ -10,3 +10,4 @@ D / Rating : $\color{#980000}671$ / Prefix_Sum, Tree_Map
 
 E / Rating : $\color{#22741C}1158$ / Priority_Queue, Graphs
 
+F / Rating : $\color{#24FCFF}1420$ / Interactive, Stack, DFS
