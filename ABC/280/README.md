@@ -7,3 +7,5 @@ B / Rating : $\color{#8C8C8C}22$ / Implementation
 C / Rating : $\color{#8C8C8C}64$ / Implementation, Strings
 
 D / Rating : $\color{#22741C}880$ / Binary_Search, Number_Theory, Hash_Map
+
+E / Rating : $\color{#24FCFF}1251$ / Combinatorics, Math
