@@ -8,4 +8,4 @@ C / Rating : $\color{#980000}760$ / Bruteforce
 
 D / Rating : $\color{#980000}606$ / DP
 
-E / Rating : $\color{#24FCFF}1264$ / DP, Combinatorics
+E / Rating : $\color{#24FCFF}1264$ / DP, Combinatorics, Math
