@@ -7,3 +7,6 @@ B / Rating : $\color{#8C8C8C}109$ / Implementation, Constructive
 C / Rating : $\color{#980000}517$ / Implementation
 
 D / Rating : $\color{#980000}797$ / Number_Theory, Primality_Test
+
+E / Rating : $\color{#24FCFF}1421$ / Hash
+
