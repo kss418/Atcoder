@@ -9,3 +9,5 @@ C / Rating : $\color{#980000}468$ / DP
 D / Rating : $\color{#980000}570$ / Stack
 
 E / Rating : $\color{#22741C}1068$ / DFS
+
+F / Rating : $\color{#24FCFF}1589$ / Greedy, Math
