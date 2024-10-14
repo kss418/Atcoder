@@ -8,4 +8,6 @@ C / Rating : $\color{#980000}516$ / Geometry, CCW
 
 D / Rating : $\color{#22741C}840$ / DP
 
+E / Rating : $\color{#24FCFF}1227$ / DP, Combinatorics
+
 F / Rating : $\color{#24FCFF}1525$ / DFS
