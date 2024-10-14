@@ -6,3 +6,4 @@ B / Rating : $\color{#8C8C8C}220$ / Bruteforce
 
 C / Rating : $\color{#8C8C8C}362$ / Implementation
 
+D / Rating : $\color{#24FCFF}1213$ / DP, Math
