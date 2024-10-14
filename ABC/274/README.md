@@ -7,3 +7,5 @@ B / Rating : $\color{#8C8C8C}48$ / Implementation
 C / Rating : $\color{#8C8C8C}315$ / Implementation
 
 D / Rating : $\color{#22741C}916$ / DP, Knapsack
+
+E / Rating : $\color{#24FCFF}1520$ / DP, Bit_Mask
