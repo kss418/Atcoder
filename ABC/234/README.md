@@ -9,3 +9,5 @@ C / Rating : $\color{#8C8C8C}155$ / Implementation, Bit_Mask
 D / Rating : $\color{#980000}503$ / Segment_Tree
 
 E / Rating : $\color{#22741C}899$ / DFS, Construtive, Hash_Set
+
+F / Rating : $\color{#24FCFF}1596$ / DP, Combinatorics
