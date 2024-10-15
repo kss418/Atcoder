@@ -8,7 +8,7 @@ C / Rating : $\color{#8C8C8C}323$ / Combinatorics
 
 D / Rating : $\color{#980000}621$ / DP
 
-E / Rating : $\color{#24FCFF}1301$ / Bruteforce, Bellman_Ford, bit_Mask
+E / Rating : $\color{#24FCFF}1301$ / Bruteforce, Floyd_Warshall, bit_Mask
 
 F / Rating : $\color{#3162C7}1618$ / Seg_Tree, Sorting
 
