@@ -10,4 +10,6 @@ D / Rating : $\color{#24FCFF}1259$ / Implementation, Math
 
 E / Rating : $\color{#24FCFF}1223$ / Games, DP
 
+F / Rating : $\color{#3162C7}1639$ / Seg_Tree, Coordinate_Compression
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/354.png)
