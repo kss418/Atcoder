@@ -10,4 +10,6 @@ D / Rating : $\color{#980000}773$ / DFS, Graphs
 
 E / Rating : $\color{#24FCFF}1385$ / DP, Combinatorics
 
+F / Rating : $\color{#3162C7}1601$ / Stack, Recursive
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/350.png)
