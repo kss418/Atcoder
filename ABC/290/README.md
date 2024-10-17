@@ -8,6 +8,6 @@ C / Rating : $\color{#8C8C8C}225$ / Implementation
 
 D / Rating : $\color{#22741C}1036$ / Number_Theory, Math
 
-E / Rating : $\color{#22741C}1485$ / Combinatorics, Two_Pointers
+E / Rating : $\color{#24FCFF}1485$ / Combinatorics, Two_Pointers
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/290.png)
