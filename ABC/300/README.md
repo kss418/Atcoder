@@ -10,4 +10,6 @@ D / Rating : $\color{#22741C}908$ / Number_Thoery, Euclidean, Bruteforce
 
 E / Rating : $\color{#24FCFF}1354$ / DP, Combinatorics
 
+F / Rating : $\color{#3162C7}1846$ / Binary_Search, Prefix_Sum
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/300.png)
