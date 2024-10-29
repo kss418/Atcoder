@@ -8,4 +8,4 @@ C / Rating : $\color{#8C8C8C}273$ / Bruteforces, Bit_Masks
 
 D / Rating : $\color{#8C8C8C}393$ / Greedy, Sorting
 
-E / Rating : $\color{#8C8C8C}1397$ / DP, Combinatorics
+E / Rating : $\color{#24FCFF}1397$ / DP, Combinatorics
