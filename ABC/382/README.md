@@ -8,6 +8,8 @@ C / Rating : $\color{#8C8C8C}-$ / Prioirty_Queue
 
 D / Rating : $\color{#8C8C8C}-$ / Backtracking, Bruteforce
 
+E / Rating : $\color{#8C8C8C}-$ / DP, Combinatorics
+
 F / Rating : $\color{#8C8C8C}-$ / Offline_Query, Lazy_Propagation
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/382.png)
