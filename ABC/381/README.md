@@ -10,4 +10,6 @@ D / Rating : $\color{#22741C}921$ / Strings, Two_Pointers
 
 E / Rating : $\color{#24FCFF}1396$ / Strings, Binary_Search
 
+F / Rating : $\color{#3162C7}1739$ / Bit_DP
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/381.png)
