@@ -10,5 +10,7 @@ D / Rating : $\color{#22741C}884$ / Math, Number_Theory
 
 E / Rating : $\color{#3162C7}1616$ / Disjoint_Set, Greedy
 
+F / Rating : $\color{#3162C7}1706$ / DP
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/383.png)
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/383.png)
