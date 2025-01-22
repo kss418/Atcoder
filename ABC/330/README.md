@@ -10,4 +10,6 @@ D / Rating : $\color{#980000}569$ / Combinatorics, Math
 
 E / Rating : $\color{#22741C}1004$ / Tree_Set, Ad_Hoc
 
+F / Rating : $\color{#3162C7}1718$ / Binary_Search, Greedy, Sorting
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/330.png)
