@@ -10,4 +10,6 @@ D / Rating : $\color{#8C8C8C}-$ / Sorting, Greedy
 
 E / Rating : $\color{#8C8C8C}-$ / Divide_And_Conquer, Greedy
 
+F / Rating : $\color{#8C8C8C}-$ / Priority_Queue, Tree_Set, Sorting
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/391.png)
