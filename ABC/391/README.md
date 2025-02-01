@@ -8,6 +8,6 @@ C / Rating : $\color{#8C8C8C}-$ / Ad_Hoc
 
 D / Rating : $\color{#8C8C8C}-$ / Sorting, Greedy
 
-E / Rating : $\color{#8C8C8C}-$ / Divide_And_Conquer
+E / Rating : $\color{#8C8C8C}-$ / Divide_And_Conquer, Greedy
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/391.png)
