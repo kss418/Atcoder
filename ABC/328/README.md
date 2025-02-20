@@ -1,4 +1,4 @@
-# https://atcoder.jp/contests/abc329/tasks
+# https://atcoder.jp/contests/abc328/tasks
 
 A / Rating : $\color{#8C8C8C}8$ / Implementation
 
@@ -12,4 +12,4 @@ E / Rating : $\color{#22741C}1160$ / Backtracking, Disjoint_Set
 
 F / Rating : $\color{#24FCFF}1477$ / Disjoint_Set
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/329.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/328.png)
