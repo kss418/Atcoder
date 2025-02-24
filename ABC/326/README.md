@@ -10,6 +10,6 @@ D / Rating : $\color{#24FCFF}1371$ / Backtracking
 
 E / Rating : $\color{#24FCFF}1363$ / DP, Prefix_Sum
 
-F / Rating : $\color{#3162C7}1870$ / Bruteforce, MITM, Implementation
+F / Rating : $\color{#3162C7}1870$ / Bruteforce, MITM, Binary_Search
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/326.png)
