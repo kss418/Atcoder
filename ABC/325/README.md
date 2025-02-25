@@ -6,7 +6,7 @@ B / Rating : $\color{#8C8C8C}171$ / Bruteforce
 
 C / Rating : $\color{#980000}400$ / Disjoint_Set
 
-D / Rating : $\color{#44FCFF}1367$ / Greedy, Sorting, Prioirty_queue
+D / Rating : $\color{#55FCFF}1367$ / Greedy, Sorting, Prioirty_queue
 
 E / Rating : $\color{#22741C}1093$ / Dijkstra
 
