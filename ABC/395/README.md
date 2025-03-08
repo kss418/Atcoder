@@ -10,6 +10,6 @@ D / Rating : $\color{#22741C}919$ / Implementation
 
 E / Rating : $\color{#22741C}978$ / Dijkstra
 
-F / Rating : $\color{24FCFF}1437$ / Binary_Search
+F / Rating : $\color{#24FCFF}1437$ / Binary_Search
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/395.png)
