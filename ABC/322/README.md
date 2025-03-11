@@ -10,4 +10,6 @@ D / Rating : $\color{#24FCFF}1310$ / Implementation, Backtracking
 
 E / Rating : $\color{#22741C}1193$ / DP, Knapsack
 
+F / Rating : $\color{#3162C7}1806$ / Lazy_Propagation
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/322.png)
