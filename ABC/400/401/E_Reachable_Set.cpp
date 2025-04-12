@@ -72,7 +72,7 @@ void run(){
         }
 
         while(idx <= n && uf.same(1, idx)) idx++;
-        if(idx - 1!= i) result[i] = -1;
+        if(idx - 1 != i) result[i] = -1;
     }
 
     for(int i = 1;i <= n;i++) cout << result[i] << "\n";
