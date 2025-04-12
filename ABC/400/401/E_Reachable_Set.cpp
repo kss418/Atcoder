@@ -64,11 +64,9 @@ void run(){
 
     ll idx = 1;
     for(int i = 2;i <= n;i++){
-        ll mx = i;
         for(auto& nxt : adj[i]){
             if(nxt >= i) continue;
             uf.merge(i, nxt);
-            if(!uf.same(1, nxt)) continue;
         }
 
         while(idx <= n && uf.same(1, idx)) idx++;
