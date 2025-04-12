@@ -10,4 +10,6 @@ D / Rating : $\color{#22741C}-$ / Greedy, DP, Consturctive
 
 E / Rating : $\color{#22741C}-$ / Disjoint_Set, Prioirity_Queue, Greedy
 
+F / Rating : $\color{#22741C}-$ / Trees_DP, Sorting, Greedy
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/401.png)
