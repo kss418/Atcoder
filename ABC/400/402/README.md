@@ -6,7 +6,7 @@ B / Rating : $\color{#8C8C8C}-$ / Queue
 
 C / Rating : $\color{#8C8C8C}-$ / Implementation
 
-D / Rating : $\color{#22741C}-$ / Tree_Map, Geometry
+D / Rating : $\color{#22741C}-$ / Geometry
 
 E / Rating : $\color{#22741C}-$ / DP, Bitmasks, Combinatorics
 
