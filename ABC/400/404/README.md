@@ -10,4 +10,6 @@ D / Rating : $\color{#22741C}-$ / Bruteforce
 
 E / Rating : $\color{#22741C}-$ / DP, Graphs
 
+G / Rating : $\color{#22741C}-$ / SPFA
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/404.png)
