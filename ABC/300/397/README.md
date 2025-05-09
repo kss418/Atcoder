@@ -1,15 +1,15 @@
 # https://atcoder.jp/contests/abc397/tasks
 
-A / Rating : $\color{#8C8C8C}-$ / Case_Work
+A / Rating : $\color{#8C8C8C}6$ / Case_Work
 
-B / Rating : $\color{#8C8C8C}-$ / Greedy
+B / Rating : $\color{#8C8C8C}63$ / Greedy
 
-C / Rating : $\color{#8C8C8C}-$ / Prefix_Sum
+C / Rating : $\color{#8C8C8C}184$ / Prefix_Sum
 
-D / Rating : $\color{#22741C}-$ / Math, Bruteforce
+D / Rating : $\color{#7DFE74}1132$ / Math, Bruteforce
 
-E / Rating : $\color{24FCFF}-$ / DP, Trees, Greedy
+E / Rating : $\color{#85FFFF}1484$ / DP, Trees, Greedy
 
-F / Rating : $\color{24FCFF}-$ / DP, Lazy_Propagation, Prefix_Sum
+F / Rating : $\color{#3162C7}1753$ / DP, Lazy_Propagation, Prefix_Sum
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/397.png)
