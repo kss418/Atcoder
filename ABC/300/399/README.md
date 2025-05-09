@@ -1,13 +1,13 @@
 # https://atcoder.jp/contests/abc399/tasks
 
-A / Rating : $\color{#8C8C8C}-$ / Implementation
+A / Rating : $\color{#8C8C8C}9$ / Implementation
 
-B / Rating : $\color{#8C8C8C}-$ / Bruteforce
+B / Rating : $\color{#8C8C8C}41$ / Bruteforce
 
-C / Rating : $\color{#8C8C8C}-$ / DSU, Trees
+C / Rating : $\color{#8C8C8C}321$ / DSU, Trees
 
-D / Rating : $\color{#22741C}-$ / Tree_Map, Case_Work
+D / Rating : $\color{#22741C}964$ / Tree_Map, Case_Work
 
-E / Rating : $\color{#22741C}-$ / DSU, Graphs
+E / Rating : $\color{#FFF612}2045$ / DSU, Graphs
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/399.png)
