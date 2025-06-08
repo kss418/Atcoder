@@ -1,4 +1,3 @@
-\usepackage{xcolor}
 # https://atcoder.jp/contests/abc322/tasks
 
 A / Rating : $\textcolor{cyan}12$ / Implementation
