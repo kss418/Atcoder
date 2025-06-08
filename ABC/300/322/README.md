@@ -1,6 +1,6 @@
 # https://atcoder.jp/contests/abc322/tasks
 
-A / Rating : $\textcolor{cyan}12$ / Implementation
+A / Rating : $\color{\\#8C8C8C}12$ / Implementation
 
 B / Rating : $\color{#8C8C8C}54$ / Implementation, Strings
 
