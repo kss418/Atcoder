@@ -8,7 +8,7 @@ C / Rating : $421$ / Math
 
 D / Rating : $772$ / Strings, Greedy
 
-E / Rating : $973$ / Trees, Topology_Sorting
+E / Rating : $973$ / Trees, Topological_Sorting
 
 F / Rating : $1580$ / DSU, Priority_Queue
 
