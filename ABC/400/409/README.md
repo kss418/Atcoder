@@ -1,5 +1,5 @@
 # https://atcoder.jp/contests/abc409/tasks
-<span style="color:red"> 글씨색 변경 </span>
+
 A / Rating : $\color{#8C8C8C}22$ / Implementation
 
 B / Rating : $\color{#8C8C8C}126$ / Bruteforce
