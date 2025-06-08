@@ -1,6 +1,6 @@
 # https://atcoder.jp/contests/abc322/tasks
 
-A / Rating : $\color{#8C8C8C}12$ / Implementation
+A / Rating : <span style="color:#24FCFF">12</span> / Implementation
 
 B / Rating : $\color{#8C8C8C}54$ / Implementation, Strings
 
