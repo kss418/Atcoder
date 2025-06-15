@@ -10,3 +10,6 @@ D / Rating : $1048$ / BFS
 
 E / Rating : $1077$ / DP
 
+F / Rating : $1732$ / Prefix_Sum, Sqrt_Decomposition
+
+
