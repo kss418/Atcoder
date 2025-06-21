@@ -1,13 +1,15 @@
 # https://atcoder.jp/contests/abc390/tasks
 
-A / Rating : $\color{#8C8C8C}43$ / Implementation
+A / Rating : $43$ / Implementation
 
-B / Rating : $\color{#8C8C8C}147$ / Math, Euclidean
+B / Rating : $147$ / Math, Euclidean
 
-C / Rating : $\color{#8C8C8C}247$ / Ad_Hoc
+C / Rating : $247$ / Ad_Hoc
 
-D / Rating : $\color{#3162C7}1607$ / Backtracking
+D / Rating : $1607$ / Backtracking
 
-E / Rating : $\color{#24FCFF}1227$ / DP, Binary_Search
+E / Rating : $1227$ / DP, Binary_Search
+
+F / Rating : $1801$ / Ad_Hoc, Sweeping
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/390.png)
