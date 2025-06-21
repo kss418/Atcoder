@@ -10,4 +10,6 @@ D / Rating : $930$ / Backtracking
 
 E / Rating : $1531$ / Prioirity_Queue
 
+F / Rating : $1740$ / Stack, Lazy_Propagation, Prefix_Sum
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/407.png)
