@@ -1,11 +1,13 @@
 # https://atcoder.jp/contests/abc387/tasks
 
-A / Rating : $\color{#8C8C8C}-$ / Math
+A / Rating : $6$ / Math
 
-B / Rating : $\color{#8C8C8C}-$ / Bruteforce
+B / Rating : $21$ / Bruteforce
 
-C / Rating : $\color{#8C8C8C}-$ / Ad_Hoc, Combinatorics
+C / Rating : $1249$ / Ad_Hoc, Combinatorics
 
-D / Rating : $\color{#8C8C8C}-$ / BFS
+D / Rating : $817$ / BFS
+
+F / Rating : $1760$ / SCC, DP, Topological_Sorting
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/387.png)
