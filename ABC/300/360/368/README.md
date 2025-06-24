@@ -1,14 +1,16 @@
 # https://atcoder.jp/contests/abc368/tasks
 
-A / Rating : $\color{#8C8C8C}20$ / Implementation
+A / Rating : $20$ / Implementation
 
-B / Rating : $\color{#8C8C8C}56$ / Implementation, Sorting
+B / Rating : $56$ / Implementation, Sorting
 
-C / Rating : $\color{#8C8C8C}368$ / Math
+C / Rating : $368$ / Math
 
-D / Rating : $\color{#22741C}816$ / LCA
+D / Rating : $816$ / LCA
 
-F / Rating : $\color{#22741C}1180$ / Games, DP
+F / Rating : $1180$ / Games, DP
+
+G / Rating : $1841$ / Segment_Tree, Ad_Hoc
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/368.png)
 
