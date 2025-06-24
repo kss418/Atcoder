@@ -1,14 +1,16 @@
 # https://atcoder.jp/contests/abc372/tasks
 
-A / Rating : $\color{#8C8C8C}12$ / Implementation
+A / Rating : $12$ / Implementation
 
-B / Rating : $\color{#8C8C8C}131$ / Greedy
+B / Rating : $131$ / Greedy
 
-C / Rating : $\color{#8C8C8C}341$ / Ad_Hoc, Strings
+C / Rating : $341$ / Ad_Hoc, Strings
 
-D / Rating : $\color{#22741C}901$ / Stack
+D / Rating : $901$ / Stack
 
-E / Rating : $\color{#22741C}1042$ / Disjoint_Set, Smaller_To_Larger, Tree_Set
+E / Rating : $1042$ / Disjoint_Set, Smaller_To_Larger, Tree_Set
+
+F / Rating : $1722$ / DP
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/372.png)
 
