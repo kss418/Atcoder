@@ -1,11 +1,13 @@
 # https://atcoder.jp/contests/abc339/tasks
 
-A / Rating : $\color{#8C8C8C}18$ / Strings, Implementation
+A / Rating : $18$ / Strings, Implementation
 
-B / Rating : $\color{#8C8C8C}202$ / Implementation, Simulation
+B / Rating : $202$ / Implementation, Simulation
 
-C / Rating : $\color{#8C8C8C}174$ / Greedy
+C / Rating : $174$ / Greedy
 
-D / Rating : $\color{#24FCFF}1276$ / BFS
+D / Rating : $1276$ / BFS
 
-E / Rating : $\color{#22741C}1109$ / Segment_Tree
+E / Rating : $1109$ / Segment_Tree
+
+F / Rating : $1716$ / Hashing, Tree_Map, Randomized
