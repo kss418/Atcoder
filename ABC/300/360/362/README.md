@@ -1,11 +1,13 @@
 # https://atcoder.jp/contests/abc362/tasks
 
-A / Rating : $\color{#8C8C8C}12$ / Implementation
+A / Rating : $12$ / Implementation
 
-B / Rating : $\color{#8C8C8C}66$ / Math
+B / Rating : $66$ / Math
 
-C / Rating : $\color{#980000}521$ / Ad_Hoc
+C / Rating : $521$ / Ad_Hoc
 
-D / Rating : $\color{#980000}634$ / Dijkstra
+D / Rating : $634$ / Dijkstra
 
-E / Rating : $\color{#24FCFF}1225$ / Tree_Map, DP
+E / Rating : $1225$ / Tree_Map, DP
+
+G / Rating : $1625$ / Suffix_Array, Binary_Search
