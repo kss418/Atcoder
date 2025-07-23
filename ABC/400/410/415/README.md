@@ -1,16 +1,16 @@
 # https://atcoder.jp/contests/abc415/tasks
 
-A / Rating : $$ / Implementation
+A / Rating : $11$ / Implementation
 
-B / Rating : $$ / Implementation
+B / Rating : $28$ / Implementation
 
-C / Rating : $$ / DP
+C / Rating : $657$ / DP
 
-D / Rating : $$ / Greedy, Sorting, Math
+D / Rating : $846$ / Greedy, Sorting, Math
 
-E / Rating : $$ / Parametric_Serach, DP
+E / Rating : $1212$ / Parametric_Serach, DP
 
-F / Rating : $$ / Segment_Tree
+F / Rating : $1552$ / Segment_Tree
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/415.png)
 
