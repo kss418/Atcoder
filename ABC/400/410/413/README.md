@@ -12,6 +12,8 @@ E / Rating : $1241$ / DnC
 
 F / Rating : $1635$ / Priority_Queue, BFS
 
+G / Rating : $1723$ / DSU, BFS
+
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/413.png)
 
 
