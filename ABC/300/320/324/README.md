@@ -12,5 +12,4 @@ E / Rating : $1153$ / Prefix_Sum, Combinatorics, Strings
 
 F / Rating : $1815$ / DP, Bianry_Search
 
-
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/324.png)
