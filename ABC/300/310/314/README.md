@@ -10,3 +10,4 @@ D / Rating : $585$ / Implementation, Strings
 
 E / Rating : $1722$ / DP, Combinatorics
 
+F / Rating : $1736$ / Disjoint_Set, Lazy_Propagation, Smaller_To_Larger
