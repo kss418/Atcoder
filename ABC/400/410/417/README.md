@@ -1,16 +1,16 @@
-# https://atcoder.jp/contests/abc416/tasks
+# https://atcoder.jp/contests/abc417/tasks
 
-A / Rating : $$ / Implementation
+A / Rating : $15$ / Implementation
 
-B / Rating : $$ / Map, Implementation
+B / Rating : $41$ / Map, Implementation
 
-C / Rating : $$ / Map, Math
+C / Rating : $246$ / Map, Math
 
-D / Rating : $$ / Disjoint_Set, Bruteforce
+D / Rating : $1230$ / Disjoint_Set, Bruteforce
 
-E / Rating : $$ / DFS
+E / Rating : $1111$ / DFS
 
-F / Rating : $$ / Lazy_Propagation, Number_Thoery
+F / Rating : $1414$ / Lazy_Propagation, Number_Thoery
 
 
 
