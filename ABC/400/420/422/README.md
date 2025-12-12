@@ -1,4 +1,4 @@
-# https://atcoder.jp/contests/abc420/tasks
+# https://atcoder.jp/contests/abc422/tasks
 
 A / Rating : $-$ / Implementation
 
